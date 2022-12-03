@@ -1,0 +1,14 @@
+C:\Users\danil\source\repos\Lista-de-Exercicios\Lista-de-Exercicios\obj\Debug\netcoreapp3.1\Lista-de-Exercicios.csproj.AssemblyReference.cache
+C:\Users\danil\source\repos\Lista-de-Exercicios\Lista-de-Exercicios\obj\Debug\netcoreapp3.1\Lista-de-Exercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danil\source\repos\Lista-de-Exercicios\Lista-de-Exercicios\obj\Debug\netcoreapp3.1\Lista-de-Exercicios.AssemblyInfoInputs.cache
+C:\Users\danil\source\repos\Lista-de-Exercicios\Lista-de-Exercicios\obj\Debug\netcoreapp3.1\Lista-de-Exercicios.AssemblyInfo.cs
+C:\Users\danil\source\repos\Lista-de-Exercicios\Lista-de-Exercicios\obj\Debug\netcoreapp3.1\Lista-de-Exercicios.csproj.CoreCompileInputs.cache
+C:\Users\danil\source\repos\Lista-de-Exercicios\Lista-de-Exercicios\bin\Debug\netcoreapp3.1\Lista-de-Exercicios.exe
+C:\Users\danil\source\repos\Lista-de-Exercicios\Lista-de-Exercicios\bin\Debug\netcoreapp3.1\Lista-de-Exercicios.deps.json
+C:\Users\danil\source\repos\Lista-de-Exercicios\Lista-de-Exercicios\bin\Debug\netcoreapp3.1\Lista-de-Exercicios.runtimeconfig.json
+C:\Users\danil\source\repos\Lista-de-Exercicios\Lista-de-Exercicios\bin\Debug\netcoreapp3.1\Lista-de-Exercicios.runtimeconfig.dev.json
+C:\Users\danil\source\repos\Lista-de-Exercicios\Lista-de-Exercicios\bin\Debug\netcoreapp3.1\Lista-de-Exercicios.dll
+C:\Users\danil\source\repos\Lista-de-Exercicios\Lista-de-Exercicios\bin\Debug\netcoreapp3.1\Lista-de-Exercicios.pdb
+C:\Users\danil\source\repos\Lista-de-Exercicios\Lista-de-Exercicios\obj\Debug\netcoreapp3.1\Lista-de-Exercicios.dll
+C:\Users\danil\source\repos\Lista-de-Exercicios\Lista-de-Exercicios\obj\Debug\netcoreapp3.1\Lista-de-Exercicios.pdb
+C:\Users\danil\source\repos\Lista-de-Exercicios\Lista-de-Exercicios\obj\Debug\netcoreapp3.1\Lista-de-Exercicios.genruntimeconfig.cache
